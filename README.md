@@ -3,9 +3,9 @@
 <div align="center">
 <p>
     <a href="https://github.com/JannatinNaim/NeoVimConfig/pulse">
-      <img alt="Last commit" src="https://img.shields.io/github/last-commit/lunarvim/LunarVim"/>
+      <img alt="Last commit" src="https://img.shields.io/github/last-commit/JannatinNaim/NeoVimConfig"/>
     </a>
-    <a href="https://github.com/lunarvim/LunarVim/blob/main/LICENSE">
+    <a href="https://github.com/JannatinNaim/NeoVimConfig/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/JannatinNaim/NeoVimConfig?style=flat-square&logo=GNU&label=License" alt="License"
     />
     <a href="https://twitter.com/intent/follow?screen_name=JannatinNaimJN">
